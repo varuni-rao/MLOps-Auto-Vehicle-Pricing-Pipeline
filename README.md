@@ -19,7 +19,8 @@ The repository demonstrates a transition from exploratory data analysis to a rob
 * **Environment Consistency:** Use of Docker and Conda environments to guarantee reproducibility across development, staging, and production.
 * **Cloud Orchestration:** Automated deployment to Azure Machine Learning for scalable model hosting and inference.
 
-<img width="1437" height="436" alt="image" src="https://github.com/user-attachments/assets/7f912d35-cc17-480d-9bd7-49412bc77c66" /> 
+<img width="1462" height="474" alt="image" src="https://github.com/user-attachments/assets/04f352b1-b700-4909-a6d9-9022dd51d8a1" />
+
 
  Source: [Actions Page](https://github.com/varuni-rao/Random-Forest-Regression-Pipeline/actions/runs/13973767090)
 
